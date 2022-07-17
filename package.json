@@ -1,0 +1,13 @@
+{
+  "name": "fastify-bff",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  },
+  "dependencies": {
+    "fastify": "^4.2.1",
+    "mercurius": "^10.1.0"
+  }
+}
